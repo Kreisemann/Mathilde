@@ -60,23 +60,11 @@ figcaption {
 }
 
 
-FUNKTIONUIERT NICHT!!!!!!!!!
-
-
-		
-div> figcaption
-	background-color: red;
-	position: absolute;
-	bottom: 0;
-	width: 100%;
-	line-height: 2em;
-	text-align: center;
-	}
-	
 .nebeneinander> figcaption {
 	background-color: red;
 }
 	
+
 	
 body {
 	marginwidth="50" 
