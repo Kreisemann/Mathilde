@@ -115,3 +115,17 @@ figcaption {
  .Wasserbild{
 	width:100%;
  }
+ .Infotext{
+	width:33%;
+	height:auto;
+	align-self:right;
+	vertical-align: center;
+	line-height: 25px;
+ }
+ .EinFoto{
+	display:flex;
+	justify-content:right;
+	width:33%;
+	position:absolute;
+	right:100px;
+ }
