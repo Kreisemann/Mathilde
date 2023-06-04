@@ -121,11 +121,10 @@ figcaption {
 	align-self:right;
 	vertical-align: center;
 	line-height: 25px;
- }
- .EinFoto{
-	display:flex;
-	justify-content:right;
-	width:33%;
+	background-color:white;
 	position:absolute;
-	right:100px;
+	left:50px;
+	top:164px;
+	border:2px solid black;
+	padding: 5px;
  }
