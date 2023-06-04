@@ -82,6 +82,11 @@ button {
 	height: 40px;
 	width: 60px;
 	display: inline-block;
+	text-decoration: none;
+	background-color: #993333;
+	color:white;
+	border:transparent;
+	border-radius:5px;
 }
 
 .impressum {
