@@ -1,0 +1,113 @@
+nav {
+	color: white;
+	background-color: #993333;
+	text-align: center;
+}
+
+nav > ul > li > a {
+	color: white !important;
+	text-decoration: none;
+}
+
+nav > ul {
+	list-style: none;
+}
+
+figcaption {
+	text-align: center; font-size: 30px;
+	
+}
+
+.fotochen {
+	height: 300px; !important;
+	width: 500px; !important;
+}
+
+.nebeneinander {
+	display: flex;
+}
+
+.nebeneinander > * {
+	display: block;
+}
+
+
+.volle-breite {
+	width: 100%;
+}
+
+
+table, th, td {
+	border: 1px solid #040;
+	border-collapse: collapse;
+	border-color: white;
+	background-color: #993333;
+	color: white;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+th {
+	width: 280px;
+}
+
+figcaption {
+	font-size: 18px;
+	text-align: center;
+}
+
+
+FUNKTIONUIERT NICHT!!!!!!!!!
+
+
+		
+div> figcaption
+	background-color: red;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	line-height: 2em;
+	text-align: center;
+	}
+	
+.nebeneinander> figcaption {
+	background-color: red;
+}
+	
+	
+body {
+	marginwidth="50" 
+	marginheight="50" 
+	topmargin="150" 
+	leftmargin="50"
+	}
+	
+.Bild {
+	height: 400px;
+	width: 600px;
+}
+
+button {
+	height: 40px;
+	width: 60px;
+	display: inline-block;
+}
+
+.impressum {
+	text align: center; !important;
+}
+
+.steckbrief> button {
+	height: 280px;
+	width: 300px;
+	text-align: left;
+	
+ }
+ 
+ body {
+	 margin-left: 50px;
+	 margin-right: 50px;
+ }
