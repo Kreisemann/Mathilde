@@ -1,3 +1,7 @@
+*{
+	text-decoration: none; !impotant;
+}
+
 nav {
 	color: white;
 	background-color: #993333;
@@ -45,6 +49,11 @@ table, th, td {
 	color: white;
 	text-align: center;
 }
+.Map{
+	height:auto;
+	width:auto;
+	margin-left:10px;
+}
 
 table {
 	text-align: center;
@@ -66,27 +75,23 @@ figcaption {
 	
 
 	
-body {
-	marginwidth="50" 
-	marginheight="50" 
-	topmargin="150" 
-	leftmargin="50"
-	}
-	
 .Bild {
 	height: 400px;
 	width: 600px;
 }
 
-button {
+.zurückbutton {
 	height: 40px;
 	width: 60px;
 	display: inline-block;
 	text-decoration: none;
-	background-color: #993333;
+	background-color:#B04431;
 	color:white;
 	border:transparent;
 	border-radius:5px;
+}
+.zurückbutton a{
+	color:white;
 }
 
 .impressum {
