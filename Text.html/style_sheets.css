@@ -119,17 +119,8 @@ figcaption {
  }
 
  .Steckbrief {
-	background-color:#B04431;
-	color: white;
-	width: 50%;
-	height: auto;
 	line-height: 25px;
-	border-radius: 18px;
  }
 
- .Rechts {
-	box-align: right;
-	height: auto;
-	width: 30%;
- }
+
  
