@@ -29,6 +29,7 @@ figcaption {
 .fotochen {
 	height: 300px; !important;
 	width: 500px; !important;
+	border-radius: 18px;
 }
 
 .nebeneinander {
@@ -51,7 +52,7 @@ table, th, td {
 	border: 1px solid #040;
 	border-collapse: collapse;
 	border-color: white;
-	background-color: #993333;
+	background-color: #B04431;
 	color: white;
 	text-align: center;
 }
@@ -118,7 +119,7 @@ figcaption {
  }
 
  .Steckbrief {
-	background-color:#993333;
+	background-color:#B04431;
 	color: white;
 	width: 50%;
 	height: auto;
@@ -127,8 +128,8 @@ figcaption {
  }
 
  .Rechts {
-	box-align:margin-right;
+	box-align: right;
 	height: auto;
-	width: 45%;
+	width: 30%;
  }
  
